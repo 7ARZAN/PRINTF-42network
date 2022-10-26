@@ -2,7 +2,7 @@
                             
                                     hey im 7ARZAN and this is my dirty pretty printf.                    
 
-                                  LIBFT-42 125/100 small codes with all bonus bgae l7up
+                                  PRINTF-42 125/100 small codes with all bonus bgae l7up
                                                       74RZANDAB3ST!
 
 
