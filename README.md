@@ -2,7 +2,7 @@
 
 
                                           hey im 7ARZAN and this is my dirty pretty printf.                    
-                                       PRINTF-42 100/100 small codes with all bonus bgae l7up
+                                      PRINTF-42 100/100 ez prjt u don't need to copy this codes
                                                             74RZANDAB3ST!
 
                                              -- -- -- MY SOCIALMEDIA FOLLOW ME :-- -- --
