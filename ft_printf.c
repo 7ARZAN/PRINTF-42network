@@ -6,7 +6,7 @@
 /*   By: elakhfif <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/10/26 00:06:52 by elakhfif          #+#    #+#             */
-/*   Updated: 2022/10/26 03:09:56 by elakhfif         ###   ########.fr       */
+/*   Updated: 2022/10/29 07:37:13 by elakhfif         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -22,9 +22,7 @@ static void	check_flags(va_list args, const char format, int *len)
 		ft_putstr(va_arg(args, char *), len);
 	else if (format == 'i' || format == 'd')
 		ft_putnbr(va_arg(args, int), len);
-	else if (format == 'x')
-		ft_putnbr_base(va_arg(args, int), format, len);
-	else if (format == 'X')
+	else if (format == 'x' || format == 'X')
 		ft_putnbr_base(va_arg(args, int), format, len);
 	else if (format == 'u')
 		ft_putnbr_unsigned(va_arg(args, unsigned int), len);
